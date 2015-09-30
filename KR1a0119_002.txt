@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易大旨
-#+DATE: 2015-09-23 09:35:23
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:58:39.502414
+#+PROPERTY: ID KR1a0119
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0119_WYG_002-1a>¶
 欽定四庫全書¶
 　讀易大旨卷二¶
@@ -1334,4 +1336,3 @@
 　¶
 　¶
 　讀易大旨卷二¶
-
